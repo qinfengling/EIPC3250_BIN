@@ -1,0 +1,7 @@
+EIPC3250 Release(realease 2014-06-15)
+* ver:ks(9849b21),s1l(9849b21),U-Boot-1.3.3+Linux+Rootfs(f37110bf)
+* ks:Support 128MiB large block NAND Flash.
+* s1l:Support 128MiB large block NAND Flash.
+* U-Boot:Adjust boot param offset and page size.
+* Kernel:Modify mtdparams for lpc3250.
+* Rootfs:Make jffs2 filesystem with large block params(128k).

@@ -1,0 +1,5 @@
+h
+speed 8000
+loadbin "./uImage", 0x80100000
+g
+q

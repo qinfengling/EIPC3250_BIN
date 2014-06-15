@@ -1,0 +1,5 @@
+h
+speed 8000
+loadbin "./rootfs.jffs2", 0x81800000
+g
+q
